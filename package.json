@@ -1,0 +1,27 @@
+{
+  "name": "bitmex-telegram-notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inxhale1/bitmex-telegram-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inxhale1/bitmex-telegram-notifier/issues"
+  },
+  "homepage": "https://github.com/inxhale1/bitmex-telegram-notifier#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1",
+    "crypto": "^1.0.1",
+    "dotenv": "^6.0.0",
+    "lodash": "^4.17.10",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
